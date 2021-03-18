@@ -3,3 +3,7 @@
 #
 # twitter : zaky1_mohammed
 # insta : zaky1_mohammed
+#
+# Install This First :
+# pip install psutil
+# pip install requests
